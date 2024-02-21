@@ -1,0 +1,16 @@
+{
+   "namespace": "iot_telemetry_data.avro",
+   "type": "record",
+   "name": "User",
+   "fields": [
+    {"name": "ts", "type": "double"},
+    {"name": "device", "type": "string"},
+    {"name": "co", "type": "double"},
+    {"name": "humidity", "type": "double"},
+    {"name": "light", "type": "boolean"},
+    {"name": "lpg", "type": "double"},
+    {"name": "motion", "type": "boolean"},
+    {"name": "smoke", "type": "double"},
+    {"name": "temp", "type": "double"}
+    ]
+ }

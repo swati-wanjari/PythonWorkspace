@@ -1,0 +1,2 @@
+Requirement already satisfied: pyarrow in ./venv/lib/python3.11/site-packages (15.0.0)
+Requirement already satisfied: numpy<2,>=1.16.6 in ./venv/lib/python3.11/site-packages (from pyarrow) (1.26.4)

@@ -1,0 +1,4 @@
+ts,device,co,humidity,light,lpg,motion,smoke,temp
+1645512000,device1,0.5,40.0,true,30.5,true,5.0,25.0
+1645512060,device2,0.3,45.0,false,25.0,false,2.0,23.5
+1645512120,device3,0.8,35.0,true,40.0,true,7.5,27.0

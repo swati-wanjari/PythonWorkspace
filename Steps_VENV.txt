@@ -1,0 +1,11 @@
+step 1 : create folder eg. /home/swatiw/Documents/PythonWorkspace
+
+step 2 : open terminal
+         python -m venv /home/swatiw/Documents/PythonWorkspace/venv
+
+step 3 : If you are using VS Code press ctrl + shift + press
+         Search for python Interpreter
+         Enter Interpreter path and find the directory in venv where latest python executable lies
+
+         And your virtual env for python created.
+         
